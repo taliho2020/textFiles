@@ -1,3 +1,6 @@
 This is the text document 1 to test the git and command line.
 
 Published on 4/22/2020
+
+Changes are made from the "second" branch
+

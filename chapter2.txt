@@ -3,3 +3,6 @@ Modified version of text document 1.
 I am testing the git and command line.
 
 Published on 4/22/2020
+
+Changes are made from "second" branch.
+
