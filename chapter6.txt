@@ -1,0 +1,6 @@
+Chapter 6
+
+Additional file created to test the 
+.gitignore
+
+On 
